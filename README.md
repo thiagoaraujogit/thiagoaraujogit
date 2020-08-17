@@ -1,4 +1,4 @@
-### Hi there, I'm Thiago Rocha í°§
+### Hi there, I'm Thiago Rocha :penguin:
 
 - :computer: I'm currently a competitor at WorldSkills Shanghai 2021 in Cloud Computing
 - :milky_way: I'm currently working with cloud infrastructure architecture focusing on the AWS platform
