@@ -1,18 +1,18 @@
-# Untitled
+### Hi there, I'm Thiago Rocha Ì∞ß
 
-# Hi there, I'm Thiago Rocha Ì∞ß
+- :computer: I'm currently a competitor at WorldSkills Shanghai 2021 in Cloud Computing
+- :milky_way: I'm currently working with cloud infrastructure architecture focusing on the AWS platform
+- :skull: I'm currently study cybersecurity, focusing on the red team (pentest, forensics, malware development)
+- :mortar_board: I'm focused on performing AWS Solutions Architect (Associate and Professional) and Offensive Security Certified Professional (OSCP) certifications
 
-- Ì±®Ìøæ‚ÄçÌ≤ª  I'm currently a competitor at WorldSkills Shanghai 2021 in Cloud Computing
-- ‚òÅÔ∏è I'm currently working with cloud infrastructure architecture focusing on the AWS platform
-- ÌµµÌøª I'm currently study cybersecurity, focusing on the red team (pentest, forensics, malware development)
-- Ì≥ù I'm focused on performing AWS Solutions Architect (Associate and Professional) and Offensive Security Certified Professional (OSCP) certifications
-
-# Connect with me:
+### Connect with me:
 
 [<img align="left" alt="thiagolizard | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/thiagolizardd/)
 [<img align="left" alt="gabrielbmartini | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/thiagoarjo/)
 
-# GitHub Stats:
+<br />
+
+### GitHub Stats:
 
 <div>
   <div>
