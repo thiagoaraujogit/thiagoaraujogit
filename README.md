@@ -14,6 +14,6 @@
 
 ### GitHub Stats:
 
-[![thiagolizard's github stats](https://github-readme-stats.vercel.app/api?username=thiagolizard&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![thiagolizard's github stats](https://github-readme-stats.vercel.app/api?username=thiagocerq&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagolizard&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocerq&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
