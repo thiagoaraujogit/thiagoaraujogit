@@ -1,7 +1,7 @@
 ### Hi there, I'm Thiago Rocha :penguin:
 
 - :computer: I'm currently a competitor at WorldSkills Shanghai 2021 in Cloud Computing.
-- :milky_way: I'm currently working with cloud infrastructure architecture focusing on the AWS platform.
+- :milky_way: I'm currently working with cloud infrastructure architecture and CI/CD on @arboplatform
 - :skull: I'm currently study cybersecurity, focusing on the red team (pentest, forensics, malware development).
 - :mortar_board: I'm focused on performing AWS Solutions Architect (Associate and Professional) and Offensive Security Certified Professional (OSCP) certifications.
 
