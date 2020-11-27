@@ -7,13 +7,29 @@
 
 ### Connect with me:
 
-[<img align="left" alt="thiagolizard | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/thiagolizardd/)
-[<img align="left" alt="thiagolizard | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/thiagoarjo/)
+[<img align="left" alt="thiagocerq | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/thiagolizardd/)
+[<img align="left" alt="thiagocerq | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/thiagoarjo/)
 
 <br />
 
-### GitHub Stats:
+<br />
+  
+### Languages and Tools:
 
-[![thiagolizard's github stats](https://github-readme-stats.vercel.app/api?username=thiagocerq&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<span>
+    <img align="right" width="55%" alt="Thiago Rocha's github stats." src="https://github-readme-stats.vercel.app/api?username=thiagocerq&show_icons=true&theme=dracula&count_private=true" />
+</span>
+  
+<span>
+    <br />
+    <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg">
+    <br />
+    <img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/serverless/serverless-ar21.svg">
+    <img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg">
+    <br />
+</span>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagocerq&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<br />
