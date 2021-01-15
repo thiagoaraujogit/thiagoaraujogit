@@ -20,10 +20,10 @@
 
 <p align="left">
     <samp>
-        💻 I'm currently a competitor at WorldSkills Shanghai 2021 in Cloud Computing.
-        🌌 I'm currently working with cloud infrastructure architecture and CI/CD on @arboplatform
-        💀 I'm currently study cybersecurity, focusing on the red team (pentest, forensics, malware development).
-        🎓 I'm focused on performing AWS Solutions Architect (Associate and Professional) and Offensive Security Certified Professional (OSCP) certifications.
+        💻 I'm currently a competitor at WorldSkills Shanghai 2021 in Cloud Computing. <br />
+        🌌 I'm currently working with cloud infrastructure architecture and CI/CD on @arboplatform. <br />
+        💀 I'm currently study cybersecurity, focusing on the red team (pentest, forensics, malware development). <br />
+        🎓 I'm focused on performing AWS Solutions Architect (Associate and Professional) and Offensive Security Certified Professional (OSCP) certifications. <br />
     </samp>
 </p>
 
