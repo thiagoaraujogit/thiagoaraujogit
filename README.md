@@ -32,7 +32,7 @@
 ### Languages and Tools:
 
 <span>
-    <img align="right" width="55%" alt="Thiago Rocha's github stats." src="https://github-readme-stats.vercel.app/api?username=thiagoaraujogit&show_icons=true&theme=dracula&count_private=true" />
+    <img align="right" width="55%" alt="Thiago Rocha's github stats." src="https://github-readme-stats.vercel.app/api?username=thiagoaraujogit&show_icons=true&theme=gradient&count_private=true" />
 </span>
   
 <span>
