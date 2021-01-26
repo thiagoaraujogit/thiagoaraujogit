@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://emojis.slackmojis.com/emojis/images/1495224257/2296/gentleman_parrot.gif?1495224257" width="30" /> Hi there, I'm Gabriel Martini <img src="https://emojis.slackmojis.com/emojis/images/1495224257/2296/gentleman_parrot.gif?1495224257"
+    <img src="https://emojis.slackmojis.com/emojis/images/1495224257/2296/gentleman_parrot.gif?1495224257" width="30" /> Hi there, I'm Thiago Rocha <img src="https://emojis.slackmojis.com/emojis/images/1495224257/2296/gentleman_parrot.gif?1495224257"
         width="30" />
 </h1>
 <p align="center">
