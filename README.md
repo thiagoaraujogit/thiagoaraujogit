@@ -4,7 +4,7 @@
 
   <br/>
 
-  <p> • 🔭 Working with <strong>AWS</strong> and <strong>DevOps</strong> at startup <a href="https://fb.com/arboimoveis">Arbo Platform</a>;</p>
+  <p> • 🔭 Working with <strong>AWS</strong> and <strong>DevOps</strong> at <a href="https://www.wexinc.com/">WEX</a>;</p>
 
   <p> • 📚 Learning more about <strong>Kubernetes</strong>, <strong>Service Mesh</strong> and other stuff on the Container world of knowledge;</p>
 
